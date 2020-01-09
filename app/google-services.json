@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187407207789",
+    "firebase_url": "https://ocra-app.firebaseio.com",
+    "project_id": "ocra-app",
+    "storage_bucket": "ocra-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187407207789:android:08c47125740756ecbfde64",
+        "android_client_info": {
+          "package_name": "com.naveennaidu.opc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187407207789-5asphtrha9bvstar6mi97al98cdb6el4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naveennaidu.opc",
+            "certificate_hash": "691c9e26f5d642b23fe6899c9a699cd2645fd639"
+          }
+        },
+        {
+          "client_id": "187407207789-mfpjph7mi2n0m23c663hu49coet4f69g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABldwsMwKaBTDBt_ysG9Pr255dOcwI5h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187407207789-mfpjph7mi2n0m23c663hu49coet4f69g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
